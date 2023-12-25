@@ -3,7 +3,7 @@
 ## Software Engineer | Full-Stack Developer
 
 ### About Me
-Hello there! I'm Doğukan, a passionate Lead Software Engineer weaving the web of tomorrow with the threads of code. With a career colored by numerous projects across a spectrum of technologies, I've been the go-to person for developing and leading enterprise-level applications. My toolbox is overflowing with languages and frameworks like JavaScript, TypeScript, .Net Core, C#, Python, and MSSQL, to name a few. I take pride in crafting elegant solutions that speak the languages of both functionality and innovation.
+Hello there! I'm Doğukan, a passionate Software Engineer weaving the web of tomorrow with the threads of code. With a career colored by numerous projects across a spectrum of technologies, I've been the go-to person for developing and leading enterprise-level applications. My toolbox is overflowing with languages and frameworks like JavaScript, TypeScript, .Net Core, C#, Python, and MSSQL, to name a few. I take pride in crafting elegant solutions that speak the languages of both functionality and innovation.
 
 Now, I'm on the lookout for a new adventure! I'm keen on packing my bags and coding skills to join a team that's as enthusiastic about pushing boundaries as I am. I'm particularly interested in opportunities that will allow me to spread my technical wings internationally, with an organization that supports visa sponsorship. So, let's connect and code the future together!
 
