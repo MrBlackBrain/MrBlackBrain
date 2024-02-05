@@ -9,7 +9,7 @@ Now, I'm on the lookout for a new adventure! I'm keen on packing my bags and cod
 
 - 🌍  I'm based in Istanbul, Türkiye & looking to relocate
 - 🖥️  View my portfolio at [My website](https://karabeyin.com)
-- ✉️  Reach out to me at [dogukankarabeyin99@gmail.com](mailto:dogukankarabeyin99@gmail.com) for collaboration or job opportunities.
+- ✉️  Reach out to me at [dogukan@karabeyin.com](mailto:dogukan@karabeyin.com) for collaboration or job opportunities.
 - 🧠  I'm currently expanding my skill set in Next.js, React, JS & TS, and always on the lookout for new and emerging technologies.
 - 🤝  I'm open to collaborating on JavaScript based projects and any Self-Hosting / HomeLab projects
 - 🔍  Actively seeking roles across the globe, preferably with organizations that support professional growth and global mobility.
