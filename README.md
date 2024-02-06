@@ -8,7 +8,7 @@ Hello there! I'm Doğukan, a passionate Software Engineer weaving the web of tom
 Now, I'm on the lookout for a new adventure! I'm keen on packing my bags and coding skills to join a team that's as enthusiastic about pushing boundaries as I am. I'm particularly interested in opportunities that will allow me to spread my technical wings internationally, with an organization that supports visa sponsorship. So, let's connect and code the future together!
 
 - 🌍  I'm based in Istanbul, Türkiye & looking to relocate
-- 🖥️  View my portfolio at [My website](https://karabeyin.com)
+- 🖥️  View my portfolio at [My website](https://dogukan.karabeyin.com)
 - ✉️  Reach out to me at [dogukan@karabeyin.com](mailto:dogukan@karabeyin.com) for collaboration or job opportunities.
 - 🧠  I'm currently expanding my skill set in Next.js, React, JS & TS, and always on the lookout for new and emerging technologies.
 - 🤝  I'm open to collaborating on JavaScript based projects and any Self-Hosting / HomeLab projects
